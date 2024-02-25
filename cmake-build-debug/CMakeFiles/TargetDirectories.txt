@@ -1,0 +1,3 @@
+C:/Users/Aleksa/Desktop/CS130-DZ/CS130-PZ-C/cmake-build-debug/CMakeFiles/CS130_PZ_C.dir
+C:/Users/Aleksa/Desktop/CS130-DZ/CS130-PZ-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aleksa/Desktop/CS130-DZ/CS130-PZ-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
